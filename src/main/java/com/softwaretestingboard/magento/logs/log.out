@@ -1,0 +1,41 @@
+2023-05-17 15:05:758 INFO  ManageBrowser :28 - Opening browser Chrome 
+2023-05-17 15:05:108 INFO  HomePage :36 - Mouse hover on women menu : [[ChromeDriver: chrome on WINDOWS (a0d52c5fbc440d4ed35900f8da24e643)] -> xpath: //span[normalize-space()='Women']]
+2023-05-17 15:05:190 INFO  ManageBrowser :28 - Opening browser Chrome 
+2023-05-17 15:05:331 INFO  HomePage :36 - Mouse hover on women menu : [[ChromeDriver: chrome on WINDOWS (be51e157b7726fdfc04f3ffa11dd327f)] -> xpath: //span[normalize-space()='Women']]
+2023-05-17 16:05:946 INFO  ManageBrowser :28 - Opening browser Chrome 
+2023-05-17 16:05:132 INFO  HomePage :36 - Mouse hover on women menu : [[ChromeDriver: chrome on WINDOWS (46e1d1f28d1c149d5210a60f9cc89c79)] -> xpath: //span[normalize-space()='Women']]
+2023-05-17 16:05:111 INFO  ManageBrowser :28 - Opening browser Chrome 
+2023-05-17 16:05:201 INFO  HomePage :36 - Mouse hover on women menu : [[ChromeDriver: chrome on WINDOWS (771461c16a4dcee18fa9fc72463275fd)] -> xpath: //span[normalize-space()='Women']]
+2023-05-17 16:05:186 INFO  ManageBrowser :28 - Opening browser Chrome 
+2023-05-17 16:05:295 INFO  HomePage :36 - Mouse hover on women menu : [[ChromeDriver: chrome on WINDOWS (f3dce7dfae5d62ccf8538f36b8b0b54b)] -> xpath: //span[normalize-space()='Women']]
+2023-05-17 16:05:800 INFO  ManageBrowser :28 - Opening browser Chrome 
+2023-05-17 16:05:231 INFO  HomePage :66 - Mouse hover on gear menu : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: //ul[@class='ui-menu ui-widget ui-widget-content ui-corner-all']/li[4]]
+2023-05-17 16:05:285 INFO  HomePage :71 - Click on bag menu : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: //span[normalize-space()='Bags']]
+2023-05-17 16:05:243 INFO  GearBagPage :39 - Clicking on over night duffle bag: [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: //a[normalize-space()='Overnight Duffle']]
+2023-05-17 16:05:287 INFO  GearBagPage :43 - Get bag name text : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: //span[contains(.,'Overnight Duffle')]]
+2023-05-17 16:05:458 INFO  GearBagPage :50 - Change the quantity : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: //input[@id='qty']]
+2023-05-17 16:05:511 INFO  GearBagPage :55 - Clicking on add to cart button : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> id: product-addtocart-button]
+2023-05-17 16:05:285 INFO  GearBagPage :59 - Get success message : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: //div[contains(@data-bind,'html: $parent.prepareMessageForHtml(message.text)')]]
+2023-05-17 16:05:297 INFO  GearBagPage :65 - Clicking on shopping cart link : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> link text: shopping cart]
+2023-05-17 16:05:320 INFO  ShoppingCartPage :48 - Getting product name : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: (//div[@class='product-item-details'])[2]/strong/a]
+2023-05-17 16:05:400 INFO  ShoppingCartPage :54 - Get quantity : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: //input[@class='input-text qty']]
+2023-05-17 16:05:727 INFO  ShoppingCartPage :59 - Getting product price : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: //span[@data-bind='text: getValue()'][normalize-space()='$135.00']]
+2023-05-17 16:05:807 INFO  ShoppingCartPage :65 - Change quantity : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: //input[@class='input-text qty']]
+2023-05-17 16:05:880 INFO  ShoppingCartPage :71 - Clicking on update shopping cart : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: //button[@class='action update']]
+2023-05-17 16:05:495 INFO  ShoppingCartPage :76 - Get updated price : [[ChromeDriver: chrome on WINDOWS (cf1138672377f4093fdec0cdf692be54)] -> xpath: //span[@class='cart-price']//span[@class='price'][normalize-space()='$225.00']]
+2023-05-17 16:05:930 INFO  ManageBrowser :28 - Opening browser Chrome 
+2023-05-17 16:05:541 INFO  HomePage :51 - Mouse hover on men menu : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> id: ui-id-5]
+2023-05-17 16:05:726 INFO  HomePage :56 - Mouse hover on men bottom menu : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> id: ui-id-18]
+2023-05-17 16:05:788 INFO  HomePage :61 - Click on : Proxy element for: DefaultElementLocator 'By.linkText: Pants'
+2023-05-17 16:05:327 INFO  MenPage :52 - Select from : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> xpath: //select[@id='sorter']]
+2023-05-17 16:05:936 INFO  MenPage :58 - Clicking on cronos pant size 32 : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> xpath: //div[@class='swatch-opt-880']//div[@id='option-label-size-143-item-175']]
+2023-05-17 16:05:995 INFO  MenPage :62 - Clicking on Cronos pant black colour : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> xpath: //div[@class='swatch-opt-880']//div[@id='option-label-color-93-item-49']]
+2023-05-17 16:05:218 INFO  MenPage :68 - Clicking on add to cart button : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> xpath: //form[@action='https://magento.softwaretestingboard.com/checkout/cart/add/uenc/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS9tZW4vYm90dG9tcy1tZW4vcGFudHMtbWVuLmh0bWw_cHJvZHVjdF9saXN0X29yZGVyPW5hbWU%2C/product/880/']//button[@class='action tocart primary']]
+2023-05-17 16:05:74 INFO  MenPage :72 - Get success message : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> xpath: //div[@class='message-success success message']]
+2023-05-17 16:05:437 INFO  MenPage :47 - Clicking on shopping cart link : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> xpath: //div[@class='page messages']//a[contains(text(),'shopping cart')]]
+2023-05-17 16:05:459 INFO  ShoppingCartPage :81 - Shopping cart title : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> xpath: //span[@class='base']]
+2023-05-17 16:05:499 INFO  ShoppingCartPage :48 - Getting product name : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> xpath: (//div[@class='product-item-details'])[2]/strong/a]
+2023-05-17 16:05:530 INFO  ShoppingCartPage :86 - Getting size of pant : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> xpath: //dd[contains(text(),'32')]]
+2023-05-17 16:05:561 INFO  ShoppingCartPage :91 - Getting colour of pant : [[ChromeDriver: chrome on WINDOWS (3c457b8343d4666fd4c8507020f08333)] -> xpath: //dd[contains(text(),'Black')]]
+2023-05-17 16:05:39 INFO  ManageBrowser :28 - Opening browser Chrome 
+2023-05-17 16:05:224 INFO  HomePage :36 - Mouse hover on women menu : [[ChromeDriver: chrome on WINDOWS (b3beff7dc77e7f69d8c93aa495e55f74)] -> xpath: //span[contains(text(),'Women')]]
